@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Geoffreyk55
-- 👀 I’m interested in coding & building 
-- 🌱 I’m currently learning Meta front-end dev.
+-- 🌱 I’m currently learning Meta front-end dev.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: akouzabi@gmail.com 
 - 😄 Pronouns: A Kza
